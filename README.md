@@ -46,15 +46,15 @@ All images used in this project are sourced from Pinterest.
 
 ### App Overview 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/d573cc57-3a9e-440c-9027-20e6ed30ba36" width="300"/>
-  <img src="https://github.com/user-attachments/assets/6f06173a-a5a5-43c3-8be0-54b5acf602e4" width="300"/>
-  <img src="https://github.com/user-attachments/assets/4c0fceaa-fe8f-4bd2-95a8-d963d4d791b5" width="300"/>
+  <img src="https://github.com/user-attachments/assets/d573cc57-3a9e-440c-9027-20e6ed30ba36" width="250"/>
+  <img src="https://github.com/user-attachments/assets/6f06173a-a5a5-43c3-8be0-54b5acf602e4" width="250"/>
+  <img src="https://github.com/user-attachments/assets/4c0fceaa-fe8f-4bd2-95a8-d963d4d791b5" width="250"/>
 </p>
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/dd766341-9748-45a6-8c73-df1f7ad90ce4" width="300"/>
-  <img src="https://github.com/user-attachments/assets/1046cc71-8425-433d-a8a9-c203f6494b39" width="300"/>
-  <img src="https://github.com/user-attachments/assets/194147ab-67b1-40d0-8416-14bcd4e6c434" width="300"/>
+  <img src="https://github.com/user-attachments/assets/dd766341-9748-45a6-8c73-df1f7ad90ce4" width="250"/>
+  <img src="https://github.com/user-attachments/assets/1046cc71-8425-433d-a8a9-c203f6494b39" width="250"/>
+  <img src="https://github.com/user-attachments/assets/194147ab-67b1-40d0-8416-14bcd4e6c434" width="250"/>
 </p>
 
 ---
